@@ -2711,11 +2711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\project\\Santhoshsk03\\FFVSP_SHOP\\CSHARPNEW\\CSharp\\OBOOKS\\OBOOKS.csproj",
+      "projectUniqueName": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
       "projectName": "OBOOKS",
-      "projectPath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\project\\Santhoshsk03\\FFVSP_SHOP\\CSHARPNEW\\CSharp\\OBOOKS\\OBOOKS.csproj",
+      "projectPath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
       "packagesPath": "C:\\Users\\santhoshcad01\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\project\\Santhoshsk03\\FFVSP_SHOP\\CSHARPNEW\\CSharp\\OBOOKS\\obj\\",
+      "outputPath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\santhoshcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2SJb3yQk3tT4ywFpAFUUAdPnnis+Szea847xQzOODo2go5hjxQNGA38qCXD3Lddi7KTG5MUVPxt1yyurNlf8Ig==",
+  "dgSpecHash": "s4Mqiglpa11KAmCtXHGBIkHc5wz1JvdHCeD5EFfHRZK+PiDfTZqA35xrpqTETil3wCmsdXxKRwpqHEwvbDCtQA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\project\\Santhoshsk03\\FFVSP_SHOP\\CSHARPNEW\\CSharp\\OBOOKS\\OBOOKS.csproj",
+  "projectFilePath": "C:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santhoshcad01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\santhoshcad01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
