@@ -42,9 +42,27 @@
                          <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Aboutus">About Us</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Login">Login</a>
-                        </li>
+                        <div class="dropdown">
+    <div class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+        Login
+    </div>
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <li><a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="AdminLogin">AdminLogin</a></li>
+        <li><a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Trainer">Trainer</a></li>
+        <li><a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Trainee">Trainee</a></li>
+    </ul>
+</div>
+                       @* <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Login
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Admin">Admin</a>
+        <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Trainer">Trainer</a>
+        <a class="dropdown-item" asp-area="" asp-controller="Login" asp-action="Trainee">Trainee</a>
+    </div>
+</li> *@
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="Register">Register</a>
                         </li>
