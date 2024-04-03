@@ -9,149 +9,157 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OBOOKS
 build_property.RootNamespace = OBOOKS
-build_property.ProjectDir = C:\Users\santhoshcad01\Desktop\CAD01\PROJECT-2\CSharp\OBOOKS\
+build_property.ProjectDir = c:\Users\santhoshcad01\Desktop\CAD01\PROJECT-2\CSharp\OBOOKS\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\santhoshcad01\Desktop\CAD01\PROJECT-2\CSharp\OBOOKS
+build_property.MSBuildProjectDirectory = c:\Users\santhoshcad01\Desktop\CAD01\PROJECT-2\CSharp\OBOOKS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/Dashboard.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/ManageCourses.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/ManageCourses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlQ291cnNlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/ManageSessions.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/ManageSessions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlU2Vzc2lvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/ManageUsers.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/ManageUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/Reports.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/Reports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/Settings.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Admin/Settings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2V0dGluZ3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Aboutus.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Aboutus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWJvdXR1cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/AdminLogin.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/AdminLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQWRtaW5Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Authors.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Authors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQXV0aG9ycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Books.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Books.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQm9va3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Categories.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Categories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Contactus.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Contactus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ29udGFjdHVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Index.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Login.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Register.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/Error.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/TraineeLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVHJhaW5lZUxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Login/TrainerLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVHJhaW5lckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/Dashboard.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/EnrollinCourse.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/EnrollinCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxFbnJvbGxpbkNvdXJzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/Grades.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/Grades.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxHcmFkZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/MyCourses.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/MyCourses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxNeUNvdXJzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/Resources.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/Resources.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxSZXNvdXJjZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/ViewSessionsSchedule.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainee/ViewSessionsSchedule.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxWaWV3U2Vzc2lvbnNTY2hlZHVsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/Dashboard.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/Grades.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/Grades.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxHcmFkZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/ManageTrainee.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/ManageTrainee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxNYW5hZ2VUcmFpbmVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/MyCourses.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/MyCourses.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxNeUNvdXJzZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/Resources.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/Resources.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxSZXNvdXJjZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/ScheduleSessions.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Trainer/ScheduleSessions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lclxTY2hlZHVsZVNlc3Npb25zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/_ViewImports.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/_ViewStart.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutAdmin.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-vz9izrulk2
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutLogin.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-7q0qc04fkp
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutTrainee.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutTrainee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUcmFpbmVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-8u8ci5tk6w
 
-[C:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutTrainer.cshtml]
+[c:/Users/santhoshcad01/Desktop/CAD01/PROJECT-2/CSharp/OBOOKS/Views/Shared/_LayoutTrainer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUcmFpbmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-kuxqd7z8r3
