@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj": {}
+    "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj": {
+    "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
+        "projectUniqueName": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
         "projectName": "OBOOKS",
-        "projectPath": "C:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
+        "projectPath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\OBOOKS.csproj",
         "packagesPath": "C:\\Users\\santhoshcad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\obj\\",
+        "outputPath": "c:\\Users\\santhoshcad01\\Desktop\\CAD01\\PROJECT-2\\CSharp\\OBOOKS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santhoshcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
